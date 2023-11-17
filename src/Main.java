@@ -40,7 +40,7 @@ public class Main {
                     }
                     break;
                 default:
-                    System.out.printf("ko hop le moi nhap lai\n");
+                    System.out.printf("ko hop le moi nhap lai:  \n");
             }
             choose = inp.nextInt();
         }
